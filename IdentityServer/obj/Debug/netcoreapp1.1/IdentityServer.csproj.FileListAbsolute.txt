@@ -6,3 +6,4 @@ C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\bin\Debug\netcoreapp1.1\
 C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.AssemblyInfo.cs
 C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.dll
 C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.pdb
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.csprojResolveAssemblyReference.cache

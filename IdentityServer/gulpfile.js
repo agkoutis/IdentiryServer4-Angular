@@ -83,6 +83,31 @@ gulp.task("copy:jasmine", function () {
         .pipe(gulp.dest(config.lib));
 });
 
+/* Bower  */
+
+var paths = {
+    bower: "./bower_components/",
+    lib: "./wwwroot/lib/"
+};
+
+gulp.task("copy:bower", function () {
+    var bower = {
+        "bootstrap": "bootstrap/dist/**/*.{min.js,min.css,ttf,svg,woff,eot}",
+        "jquery": "jquery/dist/jquery.min.js",
+        "jquery-validation": "jquery-validation/dist/jquery.validate.js",
+        "jquery-validation-unobtrusive": "jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+        "tether": "tether/dist/js/tether.min.js"
+    };
+
+    for (var destinationDir in bower) {
+        gulp.src(paths.bower + bower[destinationDir])
+            .pipe(gulp.dest(paths.lib + destinationDir));
+    }
+});
+
+
+/* Bower  */
+
 gulp.task("dependencies", [
     "copy:angular",
     "copy:angularWebApi",
@@ -92,6 +117,7 @@ gulp.task("dependencies", [
     "copy:systemjs",
     "copy:rxjs",
     "copy:jasmine",
+    "copy:bower",
     "copy:app"
 ]);
 
