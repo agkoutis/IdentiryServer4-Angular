@@ -1,0 +1,8 @@
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\bin\Debug\netcoreapp1.1\IdentityServer.deps.json
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\bin\Debug\netcoreapp1.1\IdentityServer.runtimeconfig.json
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\bin\Debug\netcoreapp1.1\IdentityServer.runtimeconfig.dev.json
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\bin\Debug\netcoreapp1.1\IdentityServer.dll
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\bin\Debug\netcoreapp1.1\IdentityServer.pdb
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.AssemblyInfo.cs
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.dll
+C:\Source Control\nbg\tfs\IdentityServer\IdentityServer\obj\Debug\netcoreapp1.1\IdentityServer.pdb
