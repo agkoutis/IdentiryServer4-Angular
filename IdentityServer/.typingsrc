@@ -1,5 +1,5 @@
 registry=http://registry.npmjs.org/
-proxy = http://wsa.central.nbg.gr:8080/
-https-proxy = http://wsa.central.nbg.gr:8080/
-strictSSL:false
-rejectUnauthorized:false
+proxy=http://wsa.central.nbg.gr:8080/
+https-proxy=http://wsa.central.nbg.gr:8080/
+strictSSL=false
+rejectUnauthorized=false

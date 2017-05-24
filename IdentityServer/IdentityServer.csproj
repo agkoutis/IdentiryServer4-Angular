@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove=".typingsrc" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="wwwroot\css\site.css" />
     <Content Include="wwwroot\js\systemjs.config.js" />
   </ItemGroup>
